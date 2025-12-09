@@ -1,0 +1,180 @@
+Cairo, Clinic A, Dr Ahmed, Cardiology
+Cairo, Clinic A, Dr Sara, Dermatology
+Cairo, Clinic A, Dr Omar, Pediatrics
+
+Cairo, Clinic B, Dr Nour, Neurology
+Cairo, Clinic B, Dr Youssef, Dentistry
+Cairo, Clinic B, Dr Hana, Orthopedics
+
+Cairo, Clinic C, Dr Karim, General Surgery
+Cairo, Clinic C, Dr Mai, Ophthalmology
+Cairo, Clinic C, Dr Tarek, ENT
+
+
+Giza, Clinic A, Dr Laila, Cardiology
+Giza, Clinic A, Dr Samer, Dermatology
+Giza, Clinic A, Dr Hossam, Pediatrics
+
+Giza, Clinic B, Dr Rawan, Neurology
+Giza, Clinic B, Dr Malek, Dentistry
+Giza, Clinic B, Dr Judy, Orthopedics
+
+Giza, Clinic C, Dr Basil, General Surgery
+Giza, Clinic C, Dr Mona, Ophthalmology
+Giza, Clinic C, Dr Islam, ENT
+
+
+Alexandria, Clinic A, Dr Nada, Cardiology
+Alexandria, Clinic A, Dr Fady, Dermatology
+Alexandria, Clinic A, Dr Hanafy, Pediatrics
+
+Alexandria, Clinic B, Dr Dalia, Neurology
+Alexandria, Clinic B, Dr Nabil, Dentistry
+Alexandria, Clinic B, Dr Lamees, Orthopedics
+
+Alexandria, Clinic C, Dr Samia, General Surgery
+Alexandria, Clinic C, Dr Walid, Ophthalmology
+Alexandria, Clinic C, Dr Reem, ENT
+
+
+Dakahlia, Clinic A, Dr Heba, Cardiology
+Dakahlia, Clinic A, Dr Hani, Dermatology
+Dakahlia, Clinic A, Dr Rami, Pediatrics
+
+Dakahlia, Clinic B, Dr Ola, Neurology
+Dakahlia, Clinic B, Dr Adel, Dentistry
+Dakahlia, Clinic B, Dr Seham, Orthopedics
+
+Dakahlia, Clinic C, Dr Basel, General Surgery
+Dakahlia, Clinic C, Dr Rola, Ophthalmology
+Dakahlia, Clinic C, Dr Ayman, ENT
+
+
+Sharqia, Clinic A, Dr Hagar, Cardiology
+Sharqia, Clinic A, Dr Rashed, Dermatology
+Sharqia, Clinic A, Dr Mariam, Pediatrics
+
+Sharqia, Clinic B, Dr Samah, Neurology
+Sharqia, Clinic B, Dr Khaled, Dentistry
+Sharqia, Clinic B, Dr Dina, Orthopedics
+
+Sharqia, Clinic C, Dr Nourhan, General Surgery
+Sharqia, Clinic C, Dr Hazem, Ophthalmology
+Sharqia, Clinic C, Dr Salma, ENT
+
+
+Gharbia, Clinic A, Dr Rasha, Cardiology
+Gharbia, Clinic A, Dr Mohsen, Dermatology
+Gharbia, Clinic A, Dr Bahaa, Pediatrics
+
+Gharbia, Clinic B, Dr Doaa, Neurology
+Gharbia, Clinic B, Dr Tamer, Dentistry
+Gharbia, Clinic B, Dr Yara, Orthopedics
+
+Gharbia, Clinic C, Dr Hamdy, General Surgery
+Gharbia, Clinic C, Dr Rana, Ophthalmology
+Gharbia, Clinic C, Dr Ziad, ENT
+
+
+Qalyubia, Clinic A, Dr Mervat, Cardiology
+Qalyubia, Clinic A, Dr Sherif, Dermatology
+Qalyubia, Clinic A, Dr Abeer, Pediatrics
+
+Qalyubia, Clinic B, Dr Osama, Neurology
+Qalyubia, Clinic B, Dr Farah, Dentistry
+Qalyubia, Clinic B, Dr Mahmoud, Orthopedics
+
+Qalyubia, Clinic C, Dr Sahar, General Surgery
+Qalyubia, Clinic C, Dr Hadi, Ophthalmology
+Qalyubia, Clinic C, Dr Nour, ENT
+
+
+Fayoum, Clinic A, Dr Layla, Cardiology
+Fayoum, Clinic A, Dr Raafat, Dermatology
+Fayoum, Clinic A, Dr Bassant, Pediatrics
+
+Fayoum, Clinic B, Dr Islam, Neurology
+Fayoum, Clinic B, Dr Yasmin, Dentistry
+Fayoum, Clinic B, Dr Saber, Orthopedics
+
+Fayoum, Clinic C, Dr Hend, General Surgery
+Fayoum, Clinic C, Dr Eid, Ophthalmology
+Fayoum, Clinic C, Dr Toka, ENT
+
+
+Minya, Clinic A, Dr Magda, Cardiology
+Minya, Clinic A, Dr Eid, Dermatology
+Minya, Clinic A, Dr Osama, Pediatrics
+
+Minya, Clinic B, Dr Reham, Neurology
+Minya, Clinic B, Dr Wael, Dentistry
+Minya, Clinic B, Dr Ali, Orthopedics
+
+Minya, Clinic C, Dr Hana, General Surgery
+Minya, Clinic C, Dr Riad, Ophthalmology
+Minya, Clinic C, Dr Zeinab, ENT
+
+
+Assiut, Clinic A, Dr Khalil, Cardiology
+Assiut, Clinic A, Dr Tasneem, Dermatology
+Assiut, Clinic A, Dr Amr, Pediatrics
+
+Assiut, Clinic B, Dr Mona, Neurology
+Assiut, Clinic B, Dr Saber, Dentistry
+Assiut, Clinic B, Dr Laila, Orthopedics
+
+Assiut, Clinic C, Dr Hatem, General Surgery
+Assiut, Clinic C, Dr Nariman, Ophthalmology
+Assiut, Clinic C, Dr Zain, ENT
+
+
+Sohag, Clinic A, Dr Nisreen, Cardiology
+Sohag, Clinic A, Dr Ahmed, Dermatology
+Sohag, Clinic A, Dr Eman, Pediatrics
+
+Sohag, Clinic B, Dr Nour, Neurology
+Sohag, Clinic B, Dr Ziad, Dentistry
+Sohag, Clinic B, Dr Shehab, Orthopedics
+
+Sohag, Clinic C, Dr Doaa, General Surgery
+Sohag, Clinic C, Dr Samer, Ophthalmology
+Sohag, Clinic C, Dr Lobna, ENT
+
+
+Qena, Clinic A, Dr Marwan, Cardiology
+Qena, Clinic A, Dr Amani, Dermatology
+Qena, Clinic A, Dr Radwan, Pediatrics
+
+Qena, Clinic B, Dr Manar, Neurology
+Qena, Clinic B, Dr Fares, Dentistry
+Qena, Clinic B, Dr Lubna, Orthopedics
+
+Qena, Clinic C, Dr Ashraf, General Surgery
+Qena, Clinic C, Dr Shorouk, Ophthalmology
+Qena, Clinic C, Dr Baher, ENT
+
+
+Aswan, Clinic A, Dr Fawzy, Cardiology
+Aswan, Clinic A, Dr Hala, Dermatology
+Aswan, Clinic A, Dr Sherif, Pediatrics
+
+Aswan, Clinic B, Dr Dalia, Neurology
+Aswan, Clinic B, Dr Raed, Dentistry
+Aswan, Clinic B, Dr Hagar, Orthopedics
+
+Aswan, Clinic C, Dr Islam, General Surgery
+Aswan, Clinic C, Dr Nehal, Ophthalmology
+Aswan, Clinic C, Dr Nour, ENT
+
+
+Red Sea, Clinic A, Dr Nader, Cardiology
+Red Sea, Clinic A, Dr Rola, Dermatology
+Red Sea, Clinic A, Dr Youssef, Pediatrics
+
+Red Sea, Clinic B, Dr Lamis, Neurology
+Red Sea, Clinic B, Dr Salem, Dentistry
+Red Sea, Clinic B, Dr Dalia, Orthopedics
+
+Red Sea, Clinic C, Dr Salma, General Surgery
+Red Sea, Clinic C, Dr Farid, Ophthalmology
+Red Sea, Clinic C, Dr Hadeer, ENT
