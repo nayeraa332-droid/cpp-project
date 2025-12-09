@@ -1,0 +1,236 @@
+Cairo
+Clinic 1 – Cairo
+- Dr. Ahmed Sami – Cardiology – Sunday – 9–11 AM
+- Dr. Mona Khalil – Orthopedics – Monday – 12–2 PM
+- Dr. Youssef Amin – Dermatology – Wednesday – 4–6 PM
+
+Clinic 2 – Cairo
+- Dr. Rami Hassan – Internal Medicine – Tuesday – 9–11 AM
+- Dr. Sara Mahmoud – Dentistry – Thursday – 12–2 PM
+- Dr. Karim Ashraf – Pediatrics – Saturday – 4–6 PM
+
+Clinic 3 – Cairo
+- Dr. Hossam El-Badry – Neurology – Sunday – 12–2 PM
+- Dr. Laila Hussein – Obstetrics & Gynecology – Tuesday – 4–6 PM
+- Dr. Ehab Fawzy – ENT – Friday – 9–11 AM
+
+
+Giza
+Clinic 1 – Giza
+- Dr. Ahmed Sami – Cardiology – Sunday – 9–11 AM
+- Dr. Mona Khalil – Orthopedics – Monday – 12–2 PM
+- Dr. Youssef Amin – Dermatology – Wednesday – 4–6 PM
+
+Clinic 2 – Giza
+- Dr. Rami Hassan – Internal Medicine – Tuesday – 9–11 AM
+- Dr. Sara Mahmoud – Dentistry – Thursday – 12–2 PM
+- Dr. Karim Ashraf – Pediatrics – Saturday – 4–6 PM
+
+Clinic 3 – Giza
+- Dr. Hossam El-Badry – Neurology – Sunday – 12–2 PM
+- Dr. Laila Hussein – Obstetrics & Gynecology – Tuesday – 4–6 PM
+- Dr. Ehab Fawzy – ENT – Friday – 9–11 AM
+
+
+Alexandria
+Clinic 1 – Alexandria
+- Dr. Ahmed Sami – Cardiology – Sunday – 9–11 AM
+- Dr. Mona Khalil – Orthopedics – Monday – 12–2 PM
+- Dr. Youssef Amin – Dermatology – Wednesday – 4–6 PM
+
+Clinic 2 – Alexandria
+- Dr. Rami Hassan – Internal Medicine – Tuesday – 9–11 AM
+- Dr. Sara Mahmoud – Dentistry – Thursday – 12–2 PM
+- Dr. Karim Ashraf – Pediatrics – Saturday – 4–6 PM
+
+Clinic 3 – Alexandria
+- Dr. Hossam El-Badry – Neurology – Sunday – 12–2 PM
+- Dr. Laila Hussein – Obstetrics & Gynecology – Tuesday – 4–6 PM
+- Dr. Ehab Fawzy – ENT – Friday – 9–11 AM
+
+
+Port Said
+Clinic 1 – Port Said
+- Dr. Ahmed Sami – Cardiology – Sunday – 9–11 AM
+- Dr. Mona Khalil – Orthopedics – Monday – 12–2 PM
+- Dr. Youssef Amin – Dermatology – Wednesday – 4–6 PM
+
+Clinic 2 – Port Said
+- Dr. Rami Hassan – Internal Medicine – Tuesday – 9–11 AM
+- Dr. Sara Mahmoud – Dentistry – Thursday – 12–2 PM
+- Dr. Karim Ashraf – Pediatrics – Saturday – 4–6 PM
+
+Clinic 3 – Port Said
+- Dr. Hossam El-Badry – Neurology – Sunday – 12–2 PM
+- Dr. Laila Hussein – Obstetrics & Gynecology – Tuesday – 4–6 PM
+- Dr. Ehab Fawzy – ENT – Friday – 9–11 AM
+
+
+Suez
+Clinic 1 – Suez
+- Dr. Ahmed Sami – Cardiology – Sunday – 9–11 AM
+- Dr. Mona Khalil – Orthopedics – Monday – 12–2 PM
+- Dr. Youssef Amin – Dermatology – Wednesday – 4–6 PM
+
+Clinic 2 – Suez
+- Dr. Rami Hassan – Internal Medicine – Tuesday – 9–11 AM
+- Dr. Sara Mahmoud – Dentistry – Thursday – 12–2 PM
+- Dr. Karim Ashraf – Pediatrics – Saturday – 4–6 PM
+
+Clinic 3 – Suez
+- Dr. Hossam El-Badry – Neurology – Sunday – 12–2 PM
+- Dr. Laila Hussein – Obstetrics & Gynecology – Tuesday – 4–6 PM
+- Dr. Ehab Fawzy – ENT – Friday – 9–11 AM
+
+
+Ismailia
+Clinic 1 – Ismailia
+- Dr. Ahmed Sami – Cardiology – Sunday – 9–11 AM
+- Dr. Mona Khalil – Orthopedics – Monday – 12–2 PM
+- Dr. Youssef Amin – Dermatology – Wednesday – 4–6 PM
+
+Clinic 2 – Ismailia
+- Dr. Rami Hassan – Internal Medicine – Tuesday – 9–11 AM
+- Dr. Sara Mahmoud – Dentistry – Thursday – 12–2 PM
+- Dr. Karim Ashraf – Pediatrics – Saturday – 4–6 PM
+
+Clinic 3 – Ismailia
+- Dr. Hossam El-Badry – Neurology – Sunday – 12–2 PM
+- Dr. Laila Hussein – Obstetrics & Gynecology – Tuesday – 4–6 PM
+- Dr. Ehab Fawzy – ENT – Friday – 9–11 AM
+
+
+Mansoura
+Clinic 1 – Mansoura
+- Dr. Ahmed Sami – Cardiology – Sunday – 9–11 AM
+- Dr. Mona Khalil – Orthopedics – Monday – 12–2 PM
+- Dr. Youssef Amin – Dermatology – Wednesday – 4–6 PM
+
+Clinic 2 – Mansoura
+- Dr. Rami Hassan – Internal Medicine – Tuesday – 9–11 AM
+- Dr. Sara Mahmoud – Dentistry – Thursday – 12–2 PM
+- Dr. Karim Ashraf – Pediatrics – Saturday – 4–6 PM
+
+Clinic 3 – Mansoura
+- Dr. Hossam El-Badry – Neurology – Sunday – 12–2 PM
+- Dr. Laila Hussein – Obstetrics & Gynecology – Tuesday – 4–6 PM
+- Dr. Ehab Fawzy – ENT – Friday – 9–11 AM
+
+
+Tanta
+Clinic 1 – Tanta
+- Dr. Ahmed Sami – Cardiology – Sunday – 9–11 AM
+- Dr. Mona Khalil – Orthopedics – Monday – 12–2 PM
+- Dr. Youssef Amin – Dermatology – Wednesday – 4–6 PM
+
+Clinic 2 – Tanta
+- Dr. Rami Hassan – Internal Medicine – Tuesday – 9–11 AM
+- Dr. Sara Mahmoud – Dentistry – Thursday – 12–2 PM
+- Dr. Karim Ashraf – Pediatrics – Saturday – 4–6 PM
+
+Clinic 3 – Tanta
+- Dr. Hossam El-Badry – Neurology – Sunday – 12–2 PM
+- Dr. Laila Hussein – Obstetrics & Gynecology – Tuesday – 4–6 PM
+- Dr. Ehab Fawzy – ENT – Friday – 9–11 AM
+
+
+Zagazig
+Clinic 1 – Zagazig
+- Dr. Ahmed Sami – Cardiology – Sunday – 9–11 AM
+- Dr. Mona Khalil – Orthopedics – Monday – 12–2 PM
+- Dr. Youssef Amin – Dermatology – Wednesday – 4–6 PM
+
+Clinic 2 – Zagazig
+- Dr. Rami Hassan – Internal Medicine – Tuesday – 9–11 AM
+- Dr. Sara Mahmoud – Dentistry – Thursday – 12–2 PM
+- Dr. Karim Ashraf – Pediatrics – Saturday – 4–6 PM
+
+Clinic 3 – Zagazig
+- Dr. Hossam El-Badry – Neurology – Sunday – 12–2 PM
+- Dr. Laila Hussein – Obstetrics & Gynecology – Tuesday – 4–6 PM
+- Dr. Ehab Fawzy – ENT – Friday – 9–11 AM
+
+
+Fayoum
+Clinic 1 – Fayoum
+- Dr. Ahmed Sami – Cardiology – Sunday – 9–11 AM
+- Dr. Mona Khalil – Orthopedics – Monday – 12–2 PM
+- Dr. Youssef Amin – Dermatology – Wednesday – 4–6 PM
+
+Clinic 2 – Fayoum
+- Dr. Rami Hassan – Internal Medicine – Tuesday – 9–11 AM
+- Dr. Sara Mahmoud – Dentistry – Thursday – 12–2 PM
+- Dr. Karim Ashraf – Pediatrics – Saturday – 4–6 PM
+
+Clinic 3 – Fayoum
+- Dr. Hossam El-Badry – Neurology – Sunday – 12–2 PM
+- Dr. Laila Hussein – Obstetrics & Gynecology – Tuesday – 4–6 PM
+- Dr. Ehab Fawzy – ENT – Friday – 9–11 AM
+
+
+Beni Suef
+Clinic 1 – Beni Suef
+- Dr. Ahmed Sami – Cardiology – Sunday – 9–11 AM
+- Dr. Mona Khalil – Orthopedics – Monday – 12–2 PM
+- Dr. Youssef Amin – Dermatology – Wednesday – 4–6 PM
+
+Clinic 2 – Beni Suef
+- Dr. Rami Hassan – Internal Medicine – Tuesday – 9–11 AM
+- Dr. Sara Mahmoud – Dentistry – Thursday – 12–2 PM
+- Dr. Karim Ashraf – Pediatrics – Saturday – 4–6 PM
+
+Clinic 3 – Beni Suef
+- Dr. Hossam El-Badry – Neurology – Sunday – 12–2 PM
+- Dr. Laila Hussein – Obstetrics & Gynecology – Tuesday – 4–6 PM
+- Dr. Ehab Fawzy – ENT – Friday – 9–11 AM
+
+
+Minya
+Clinic 1 – Minya
+- Dr. Ahmed Sami – Cardiology – Sunday – 9–11 AM
+- Dr. Mona Khalil – Orthopedics – Monday – 12–2 PM
+- Dr. Youssef Amin – Dermatology – Wednesday – 4–6 PM
+
+Clinic 2 – Minya
+- Dr. Rami Hassan – Internal Medicine – Tuesday – 9–11 AM
+- Dr. Sara Mahmoud – Dentistry – Thursday – 12–2 PM
+- Dr. Karim Ashraf – Pediatrics – Saturday – 4–6 PM
+
+Clinic 3 – Minya
+- Dr. Hossam El-Badry – Neurology – Sunday – 12–2 PM
+- Dr. Laila Hussein – Obstetrics & Gynecology – Tuesday – 4–6 PM
+- Dr. Ehab Fawzy – ENT – Friday – 9–11 AM
+
+
+Assiut
+Clinic 1 – Assiut
+- Dr. Ahmed Sami – Cardiology – Sunday – 9–11 AM
+- Dr. Mona Khalil – Orthopedics – Monday – 12–2 PM
+- Dr. Youssef Amin – Dermatology – Wednesday – 4–6 PM
+
+Clinic 2 – Assiut
+- Dr. Rami Hassan – Internal Medicine – Tuesday – 9–11 AM
+- Dr. Sara Mahmoud – Dentistry – Thursday – 12–2 PM
+- Dr. Karim Ashraf – Pediatrics – Saturday – 4–6 PM
+
+Clinic 3 – Assiut
+- Dr. Hossam El-Badry – Neurology – Sunday – 12–2 PM
+- Dr. Laila Hussein – Obstetrics & Gynecology – Tuesday – 4–6 PM
+- Dr. Ehab Fawzy – ENT – Friday – 9–11 AM
+
+
+Sohag
+Clinic 1 – Sohag
+- Dr. Ahmed Sami – Cardiology – Sunday – 9–11 AM
+- Dr. Mona Khalil – Orthopedics – Monday – 12–2 PM
+- Dr. Youssef Amin – Dermatology – Wednesday – 4–6 PM
+
+Clinic 2 – Sohag
+- Dr. Rami Hassan – Internal Medicine – Tuesday – 9–11 AM
+- Dr. Sara Mahmoud – Dentistry – Thursday – 12–2 PM
+- Dr. Karim Ashraf – Pediatrics – Saturday – 4–6 PM
+
+Clinic 3 – Sohag
+- Dr. Hossam El-Badry – Neurology – Sunday – 12–2 PM
+- Dr. Laila Hussein – Obstetrics & Gynecology – Tuesday – 4–6 PM
+- Dr. Ehab Fawzy – ENT – Friday – 9–11 AM

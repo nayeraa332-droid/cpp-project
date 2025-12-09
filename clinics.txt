@@ -1,0 +1,55 @@
+Cairo, Clinic A
+Cairo, Clinic B
+Cairo, Clinic C
+
+Giza, Clinic A
+Giza, Clinic B
+Giza, Clinic C
+
+Alexandria, Clinic A
+Alexandria, Clinic B
+Alexandria, Clinic C
+
+Dakahlia, Clinic A
+Dakahlia, Clinic B
+Dakahlia, Clinic C
+
+Sharqia, Clinic A
+Sharqia, Clinic B
+Sharqia, Clinic C
+
+Gharbia, Clinic A
+Gharbia, Clinic B
+Gharbia, Clinic C
+
+Qalyubia, Clinic A
+Qalyubia, Clinic B
+Qalyubia, Clinic C
+
+Fayoum, Clinic A
+Fayoum, Clinic B
+Fayoum, Clinic C
+
+Minya, Clinic A
+Minya, Clinic B
+Minya, Clinic C
+
+Assiut, Clinic A
+Assiut, Clinic B
+Assiut, Clinic C
+
+Sohag, Clinic A
+Sohag, Clinic B
+Sohag, Clinic C
+
+Qena, Clinic A
+Qena, Clinic B
+Qena, Clinic C
+
+Aswan, Clinic A
+Aswan, Clinic B
+Aswan, Clinic C
+
+Red Sea, Clinic A
+Red Sea, Clinic B
+Red Sea, Clinic C
